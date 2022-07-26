@@ -10,8 +10,6 @@ sapjco3.dll 은 
 C:\Windows\System32 <=여기에 복사.
  
  
-소스는 아래와 같음.
- 
  
 ```bash
 package sapTest;
