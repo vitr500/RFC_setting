@@ -1,7 +1,7 @@
-# sap에 접속하여 테이블을 가져와 java의 list객체에 담아서 사용
- 
- 
-우선 sap 담당자에게 제공받은 파일을 확인한다. 
+## sap 접속 및 getTable
+#java list객체 저장 및 사용
+
+우선 sap 담당자에게 제공받은 파일을 확인한다. 
 sapjco3.jar 는 라이브러리로 등록.
  
 sapjco3.dll 은 C:\Windows\System32 <=여기에 복사.
